@@ -1,3 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hover 2</title>
+    <link rel="stylesheet" href="styles2.css" />
+  </head>
+  <body>
+    <div class="container">
+      <button>sas</button>
+    </div>
+  </body>
+</html>
+
+
+
+
+
 .container {
     display: flex;
     justify-content: center;
@@ -16,7 +36,7 @@ button {
     transition: 0.6s;
     position: relative;
     overflow: hidden;
-    color: rgb(92, 135, 185);
+    color: rgb(0, 119, 255);
 }
 
 button::before{

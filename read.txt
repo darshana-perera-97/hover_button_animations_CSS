@@ -1,0 +1,35 @@
+item set align center
+.middle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+//align items down
+.btn{
+    display: block;
+}
+
+
+//make text upercase letters
+text-decoration: uppercase;
+
+
+//align center
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+
+//center align x,y
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:100vh;
+}
+
+
